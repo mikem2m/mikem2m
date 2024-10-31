@@ -4,7 +4,7 @@
 
 🏫 - I completed my bachelors of applied science, specialized in mechanical engineering from the University of British Columbia in 2021.
 
-💼 - I am currently working as a Software Engineer III at Copperleaf Technolgoies Inc, primarily on the backend and architecture side of things.
+💼 - I am currently working as a **Software Engineer III** at Copperleaf Technolgoies Inc, primarily on the backend and architecture side of things.
 
 📅 - I'm currently enrolled in UBC's Master of Data Science program to expand both my interest and knowledge in the AI/ML's realm of software engineering.
 
