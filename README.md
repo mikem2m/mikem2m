@@ -24,9 +24,9 @@
 ### 📚 Frameworks, Platforms and Libraries
 ![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET%208.0-blueviolet?logo=dotnet)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ### 🖥️ ML/DS
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
