@@ -6,7 +6,7 @@
 
 💼 - I am currently working as a **Software Engineer III** at Copperleaf Technolgoies Inc, primarily on the backend and architecture side of things.
 
-📅 - I'm currently enrolled in UBC's Master of Data Science program to expand both my interest and knowledge in the AI/ML's realm of software engineering.
+📅 - I'm currently attending UBC's Master of Data Science program to expand both my interest and knowledge in the AI/ML's realm of software engineering.
 
 💬 - I believe that I will be a great addition to any team as I would aid them in creating the best inventions out there! 
 
